@@ -5,5 +5,6 @@ public class clockRunner {
 
         long time= System.currentTimeMillis();
         System.out.println(time*.001);
+        a.timer();
     }
 }
