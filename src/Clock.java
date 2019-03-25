@@ -8,12 +8,9 @@ public class Clock {
         this.minutes = minutes;
         this.hours = hours;
     }
-    public String checkTime(){
+    public String printTime() {
         return ("The time is " + this.hours + " : " + this.minutes + " : " + this.seconds);
     }
 
-    public void alarm(){
 
-    }
 }
-//
