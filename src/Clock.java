@@ -13,8 +13,6 @@ public class Clock {
     }
 
     public void alarm(){
-        
+
     }
-
-
 }
